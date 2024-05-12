@@ -1,3 +1,5 @@
+# Scalable Text
+
 Scalable Text is an app that provides nothing but a field where text can be entered.
 
 After inputting some text, or before that, you may use gestures to adjust the font size of the text (as if zooming in/out).
