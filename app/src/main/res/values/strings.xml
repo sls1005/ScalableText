@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scalable Text</string>
+    <string name="label1">Text</string>
+    <string name="label2">About</string>
+    <string name="title1">About</string>
+    <string name="title2">Licenses</string>
+    <string name="text1">The source code of this app is available at</string>
+    <string name="url1">https://github.com/sls1005/ScalableText</string>
+    <string name="text2">, under the MIT License.</string>
+    <string name="display_licenses">Show libraries</string>
+</resources>
