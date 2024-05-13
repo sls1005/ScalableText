@@ -6,7 +6,7 @@ After inputting some text, or before that, you may use gestures to adjust the fo
 
 Whatever you input will not be stored, and will disappear once you change some of the settings (for the device) or close the app.
 
-This is useful when you have to quickly show some text to others, when you're not allowed to talk, and when others can't hear you.
+This is useful when you need to show some text to others, when you're not allowed to talk, and when others can't hear you.
 
 ### Screenshots
 
